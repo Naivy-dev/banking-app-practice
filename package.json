@@ -1,0 +1,38 @@
+{
+  "name": "banking-app-practice",
+  "version": "1.0.0",
+  "description": "node practice banking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naivy-dev/banking-app-practice.git"
+  },
+  "keywords": [
+    "banking",
+    "practice",
+    "app"
+  ],
+  "author": "Naivy-Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naivy-dev/banking-app-practice/issues"
+  },
+  "homepage": "https://github.com/Naivy-dev/banking-app-practice#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.32.1",
+    "typeorm": "^0.3.16"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.11",
+    "eslint": "^8.43.0",
+    "eslint-config-standard-with-typescript": "^35.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^5.1.3"
+  }
+}
